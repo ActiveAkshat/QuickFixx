@@ -7,6 +7,6 @@
 <h2>Technologies being used</h2>
 <p>
   <ul>Spring Boot</ul>
-  <ul>FLutter</ul>
+  <ul>Kotlin</ul>
   <ul>MySql database</ul>
 </p>
